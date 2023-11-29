@@ -1,0 +1,2 @@
+# symgen
+Generating character sequences
